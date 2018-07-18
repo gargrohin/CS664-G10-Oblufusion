@@ -4,11 +4,15 @@ Our course project for CS664 IoT system design. The Project-Report.pdf gives mos
 
 ## Code
 
-All the code that needs to be run is in the Start Code folder. left-oblu and right-oblu control the 2 different oblu mounted on respective feet.
+All the code that needs to be run is in the Start Code folder. "left-oblu.py" and "right-oblu.py" control the 2 different oblu mounted on respective feet.
 
 The code in oblu-fusion implements the fusion algorithm, and gives the corrected data.
 
 In order to view the plots real time, you must run the code in Plots, plot.py.
+
+### Data
+
+Corrected X and Y coordinates are logef in the 'lfinalc.txt' and 'rfinalc.txt' files.
 
 ### Performance graphs
 
