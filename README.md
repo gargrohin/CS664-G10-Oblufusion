@@ -12,7 +12,7 @@ In order to view the plots real time, you must run the code in Plots, plot.py.
 
 ### Data
 
-Corrected X and Y coordinates are logef in the 'lfinalc.txt' and 'rfinalc.txt' files.
+Corrected X and Y coordinates are loged in the 'lfinalc.txt' and 'rfinalc.txt' files.
 
 ### Performance graphs
 
