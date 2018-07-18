@@ -10,11 +10,11 @@ The code in oblu-fusion implements the fusion algorithm, and gives the corrected
 
 ### Data
 
-Corrected X and Y coordinates are loged in the 'lfinalc.txt' and 'rfinalc.txt' files.
+Corrected X and Y coordinates are logged in the 'lfinalc.txt' and 'rfinalc.txt' files.
 
 ### Plots
 
-In order to view the plots real time, you must run the code in Plots, plot.py.
+In order to view the plots in real time, you must run the code in Plots/plot.py.
 
 ### Performance graphs
 
