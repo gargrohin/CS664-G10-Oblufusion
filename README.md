@@ -8,11 +8,13 @@ All the code that needs to be run is in the Start Code folder. "left-oblu.py" an
 
 The code in oblu-fusion implements the fusion algorithm, and gives the corrected data.
 
-In order to view the plots real time, you must run the code in Plots, plot.py.
-
 ### Data
 
 Corrected X and Y coordinates are loged in the 'lfinalc.txt' and 'rfinalc.txt' files.
+
+### Plots
+
+In order to view the plots real time, you must run the code in Plots, plot.py.
 
 ### Performance graphs
 
